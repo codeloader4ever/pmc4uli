@@ -1,0 +1,4 @@
+Catatan :
+1. system/database/DB_driver line 323 - 330 dinonaktifkan
+2. ubah setting db belum...
+3.mengganti file DB_utility sebelumnya gzip jd sql line 308

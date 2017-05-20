@@ -1,0 +1,45 @@
+a:link,a:visited,a:active {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+color: #000000;
+text-decoration: none;
+}
+a:hover {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 13px;
+color: #FF0000;
+text-decoration: none;
+}
+body {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+table {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+border: 1px solid #8BB2D9;
+}
+.header {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 18px;
+color: #FFFFFF;
+background-color: #8BB2D9;
+font-weight: bold;
+}
+input {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+color: #8BB2D9;
+height: 18px;
+border: 1px solid #8BB2D9;
+}
+textarea {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+color: #8BB2D9;
+border: 1px solid #8BB2D9;
+}
+img.shadow {
+	background: url(image/shadow-1000x1000.gif) no-repeat right bottom;
+	padding: 5px 10px 10px 5px;
+}

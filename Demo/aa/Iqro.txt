@@ -1,0 +1,11 @@
+SIMPLE WEB DINAMIS
+------------------
+Step Instalation
+1.Dump database SQL "Tugas.sql"
+2.Set Connection in koneksi.php
+3.Try in our browser
+4.Ejoy
+
+Note:
+Berisi Sample Web Dinamis PHP + SQL
+Terdiri dari 10 File PHP
